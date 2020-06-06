@@ -31,7 +31,7 @@
     "@zeit/next-typescript": "^1.0.1",
     "apollo-boost": "^0.4.3",
     "apollo-link-context": "^1.0.17",
-    "apollo-server": "^2.4.6",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.4.6",
     "auth0-js": "^9.10.0",
     "babel-jest": "^24.3.0",
